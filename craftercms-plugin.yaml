@@ -25,7 +25,7 @@ plugin:
     screenshots:
       - title: Home Page
         description: Screenshot of the homepage
-        url: https://raw.githubusercontent.com/craftercms/react-blueprint/next/.crafter/screenshots/default.png
+        url: https://raw.githubusercontent.com/craftersoftware/react-blueprint/4/.crafter/screenshots/default.png
   developer:
     company:
       name: CrafterCMS
